@@ -1,0 +1,19 @@
+.cssmenu{
+    float: right;
+    padding-top: 6px;
+}
+
+.header-col{
+    background-color: #435B66!important;
+}
+
+.carousel-main{
+    max-height: 500px;
+    overflow: hidden;
+}
+
+.carousel-client img{
+    max-height: 100px;
+    max-width: 50px;
+    margin: auto;
+}
